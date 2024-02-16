@@ -1,0 +1,10 @@
+Yahoo Finance For Data Fetching
+
+https://finance.yahoo.com
+
+------------------------------------------
+
+Alpaca For Data Fetching and Paper Trading
+
+https://alpaca.markets
+
